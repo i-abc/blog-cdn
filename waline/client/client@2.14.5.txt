@@ -1,2 +1,0 @@
-https://unpkg.com/@waline/client@v2/dist/waline.js
-https://unpkg.com/@waline/client@v2/dist/waline.css
